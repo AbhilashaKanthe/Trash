@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Marvel\'s Facts</string>
+    <string name="drawer_opened">
+
+    </string>
+    <string name="draewr_closed">
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="super_hero">https://gist.githubusercontent.com/anonymous/71974397dae7474c1da0fe2e11715207/raw/41ef94250428fdba27143fa7036ad750fa0a9c06</string>
+    <string name="gallery_feed">https://gist.githubusercontent.com/AbhilashaKanthe/8511b66e20dea984dd15fee6589587b0/raw/fdef32dbe7c7994e3a32911434b83c2b8795d950</string>
+</resources>
+
